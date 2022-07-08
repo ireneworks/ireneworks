@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I’m currently learning JS, CS 
+I’m currently learning Javascript, Typescript 
 
 I'm interested in <img alt="Swift" src="https://img.shields.io/badge/swift-%23FA7343.svg?style=for-the-badge&logo=swift&logoColor=white"/>
 
