@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I’m currently learning Javascript, Typescript 
+I’m currently learning Javascript, React, Typescript 
 
 Archiving learnings [Blog](https://ireneworks.gitbook.io/saltberry/)
 
