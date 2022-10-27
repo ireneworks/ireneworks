@@ -2,6 +2,6 @@
 
 I’m currently learning Javascript, React, Typescript 
 
-Archiving learnings [Blog](https://ireneworks.gitbook.io/saltberry/)
+Archiving learnings in [blog](https://ireneworks.gitbook.io/saltberry/)
 
 Get in touch! [LinkedIn](https://www.linkedin.com/in/ireneworks/)
