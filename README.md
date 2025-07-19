@@ -1,6 +1,4 @@
-### Hi there
-
-I’m currently learning Javascript, React, Typescript, Next.js 
+### Hi there,
 
 Archiving learnings in [blog](https://ireneworks.gitbook.io/saltberry/)
 
